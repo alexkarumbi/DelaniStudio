@@ -52,3 +52,31 @@
 .whatwedo{
     text-align: center;
 }
+#Contacts{
+    margin-top: 60px;
+    background: url(assets/backgrounds/c_image.jpg);
+    height: 683px;
+    width: 1920px;
+    
+}
+#Contacts h1{
+    color: white;
+    text-align: center;
+}
+input{
+    background: transparent;
+    color: white;
+}
+textarea{
+    background: transparent;
+    color: white;
+}
+button{
+    background: transparent;
+    color: white;
+}
+form{
+    padding: 100px;
+    margin-left: 680px
+}
+
