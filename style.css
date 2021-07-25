@@ -21,3 +21,23 @@
     padding-top: 10rem;
     margin-left: 60rem; 
 }
+.about{
+    margin-top: 50px;
+    margin-left: 500px;
+}
+.services{
+    background: url(/assets/backgrounds/s_image.jpg);
+    height: 1071px;
+    width: 1920px;
+    background-repeat: no-repeat;
+}
+#serv-heading{
+    text-align: center;
+    top: 30%;
+    color: white;
+    padding: 50px;
+}
+#serv-par{
+    color: white;
+    text-align: center;
+}
