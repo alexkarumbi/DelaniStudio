@@ -1,0 +1,23 @@
+.jumbotron-fluid{
+    background: url(/assets/backgrounds/h_img.jpg);
+    height: 1071px;
+    width: 1920px;
+}
+.content{
+    display: block;
+    position: relative;
+    top: 33%;
+}
+.content .the-logo{
+    margin-bottom: 100px;
+    padding-left: 57rem;
+}
+#welcome-text{
+    color: white;
+
+}
+.mouse{
+    justify-self: center;
+    padding-top: 10rem;
+    margin-left: 60rem; 
+}
