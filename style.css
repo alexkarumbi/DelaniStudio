@@ -79,4 +79,12 @@ form{
     padding: 100px;
     margin-left: 680px
 }
-
+#desp{
+    display: none;
+}
+#devp{
+    display: none;
+}
+#prop{
+    display: none;
+}
