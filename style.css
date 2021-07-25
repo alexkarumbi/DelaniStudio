@@ -1,3 +1,4 @@
+
 .jumbotron-fluid{
     background: url(/assets/backgrounds/h_img.jpg);
     height: 1071px;
@@ -45,14 +46,9 @@
     margin-top: 50px;
 }
 #b-text{
-    text-align: center;
     margin-top: 0%;
+    text-align: center;
 }
-.row{
-    align-self: center;
-    justify-content: center;
-    display: flex;
-}
-figure .col-md-4{
-    padding: 100px;
+.whatwedo{
+    text-align: center;
 }
