@@ -16,6 +16,14 @@ $(document).ready(function() {
         $(".image-title").css("border-radius","2px")
         $(".image-title").css("padding","5px")
     });
+    $(document).ready(function(){
+        $('.text').hover(function () {
+        $(this).animate({opacity:'1'});
+        },
+        function () {
+        $(this).animate({opacity:'0'});
+    })
+    });
 
 })
 
