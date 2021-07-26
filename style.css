@@ -3,27 +3,31 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  height: 120vh;
 }
 .content {
   display: block;
   position: relative;
   top: 33%;
 }
-.content .the-logo {
-  margin-bottom: 100px;
-  justify-content: center;
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+  }
+.mouse{
+    margin-top: 100px;
+    text-align: center;
 }
+
 #welcome-text {
   color: white;
 }
-.mouse {
-  justify-self: center;
-  padding-top: 10rem;
-  margin-left: 60rem;
-}
+
 .about {
-  margin-top: 50px;
-  margin-left: 500px;
+  text-align: center;
+  padding: 100px;
 }
 .services {
   background: url(/assets/backgrounds/s_image.jpg);
