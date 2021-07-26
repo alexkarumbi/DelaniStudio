@@ -1,5 +1,5 @@
 .jumbotron-fluid {
-  background: url(/assets/backgrounds/h_img.jpg);
+  background: url(assets/backgrounds/h_img.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -30,7 +30,7 @@
   padding: 100px;
 }
 .services {
-  background: url(/assets/backgrounds/s_image.jpg);
+  background: url(assets/backgrounds/s_image.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
