@@ -11,7 +11,7 @@
 }
 .content .the-logo {
   margin-bottom: 100px;
-  padding-left: 57rem;
+  justify-content: center;
 }
 #welcome-text {
   color: white;
@@ -27,9 +27,10 @@
 }
 .services {
   background: url(/assets/backgrounds/s_image.jpg);
-  height: 488px;
-  width: 1920px;
+  background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
+  height: 100vh;
 }
 #serv-heading {
   text-align: center;
@@ -54,8 +55,9 @@
 #Contacts {
   margin-top: 60px;
   background: url(assets/backgrounds/c_image.jpg);
-  height: 683px;
-  width: 1920px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 #Contacts h1 {
