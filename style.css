@@ -58,8 +58,12 @@
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  
 }
-
+#myform{
+    align-items: center;
+    justify-content: center;
+}
 #Contacts h1 {
   color: white;
   text-align: center;
@@ -76,10 +80,7 @@ button {
   background: transparent;
   color: white;
 }
-form {
-  padding: 100px;
-  margin-left: 680px;
-}
+
 #desp {
   display: none;
 }
